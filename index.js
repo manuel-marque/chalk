@@ -1,2 +1,2 @@
 const chalk = require ('chalk');
-console.log(chalk.bgGreen('Hello, npm!'));
+console.log(chalk.bgGreen('Hello, Manu!'));
